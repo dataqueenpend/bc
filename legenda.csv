@@ -1,0 +1,81 @@
+tag,opis
+multi-label-klasyfikacja,Tag techniczny używany w analizie rozmów.
+frazy-ekstrakcja,Ekstrakcja fraz/segmentów istotnych semantycznie z transkrypcji.
+baza-wektorowa-tematy,Indeks wektorowy tematów/klas.
+retrieval+reranking,Wyszukiwanie wektorowe/BM25 z rerankingiem.
+thresholding,Kalibracja progów decyzyjnych.
+human-in-the-loop,Pętla z udziałem człowieka w procesie.
+scoring-jakosci,Ocena jakości w formie wyniku liczbowego.
+frazy-binary,Klasyfikacja binarna wystąpienia zjawiska na podstawie fraz/regex/ML.
+frazy-clustering,Grupowanie podobnych fraz w klastry/tematy.
+llm-ocena-argumentow,Ocena jakości argumentów z użyciem LLM.
+scoring-oferty,Ocena jakości ofertowania.
+pair-classification-agent-client,Klasyfikacja relacji/par wypowiedzi agent↔klient.
+llm-ocena-argumentacji,Tag techniczny używany w analizie rozmów.
+dashboard,Wizualne kokpity i agregacja metryk.
+join-z-crm,Łączenie wyników z danymi CRM.
+scoring-doradcy,Tag techniczny używany w analizie rozmów.
+frazy-klient-ekstrakcja,Tag techniczny używany w analizie rozmów.
+baza-wektorowa-produktow,Tag techniczny używany w analizie rozmów.
+sentyment-czasowy,Analiza sentymentu w czasie.
+diarization-tekstowa,Rozdzielenie mówców na podstawie treści.
+frazy-emocje,Tag techniczny używany w analizie rozmów.
+timeline-analiza,Analiza osi czasu konwersacji.
+baza-wektorowa-promocji,Tag techniczny używany w analizie rozmów.
+produkt-ner,Rozpoznawanie nazw produktów (NER).
+baza-wektorowa,Tag techniczny używany w analizie rozmów.
+uplift-analiza,Analiza uplift/czynników wpływu.
+baza-wektorowa-bezpieczenstwo,Tag techniczny używany w analizie rozmów.
+fraud-klasyfikacja,Tag techniczny używany w analizie rozmów.
+baza-wektorowa-fraudy,Tag techniczny używany w analizie rozmów.
+baza-wektorowa-indykatory,Tag techniczny używany w analizie rozmów.
+checklista-merytoryczna,Lista kontrolna wymaganych elementów.
+baza-wektorowa-procedury,Tag techniczny używany w analizie rozmów.
+retrieval,Wyszukiwanie informacji (IR) w bazach wiedzy.
+llm-ocena-pokrycia,Tag techniczny używany w analizie rozmów.
+pattern-detection,Tag techniczny używany w analizie rozmów.
+timeline,Tag techniczny używany w analizie rozmów.
+llm-porownanie,Porównanie treści z użyciem LLM.
+audyt,Tag techniczny używany w analizie rozmów.
+frazy-klient-sentyment,Tag techniczny używany w analizie rozmów.
+llm-podsumowanie,Użycie LLM do generowania podsumowań.
+checklista,Tag techniczny używany w analizie rozmów.
+baza-wektorowa-scripts,Tag techniczny używany w analizie rozmów.
+scoring-wejscia,Tag techniczny używany w analizie rozmów.
+topic-modeling,Modelowanie tematów (np. LDA/NMF).
+nlg-raporty,Tag techniczny używany w analizie rozmów.
+retrieval-structured+unstructured,Tag techniczny używany w analizie rozmów.
+agent,Tag techniczny używany w analizie rozmów.
+baza-wektorowa-skrypty,Tag techniczny używany w analizie rozmów.
+sentyment,Analiza sentymentu (poziom ogólny).
+fcr-prediction,Tag techniczny używany w analizie rozmów.
+sentiment-segmentation,Tag techniczny używany w analizie rozmów.
+tema-clustering,Tag techniczny używany w analizie rozmów.
+consistency-check,Tag techniczny używany w analizie rozmów.
+baza-wektorowa-skrypt,Tag techniczny używany w analizie rozmów.
+llm-podsumowanie-profilu,Tag techniczny używany w analizie rozmów.
+free-text-normalizacja,Tag techniczny używany w analizie rozmów.
+llm-klasyfikacja-skala,Tag techniczny używany w analizie rozmów.
+suggestion-engine,Tag techniczny używany w analizie rozmów.
+audyt-zmian,Tag techniczny używany w analizie rozmów.
+reranking,Reranking wyników wyszukiwania.
+indeks-metadanych,Indeksowanie i filtrowanie po metadanych.
+facety,Nawigacja fasetowa (filtry).
+highlighty,Podświetlanie trafień w wyszukiwarce.
+wyszukiwarka-semantyczna,Wyszukiwanie semantyczne.
+contrastive-analysis,Analiza kontrastowa różnic między grupami.
+pattern-mining,Wydobywanie wzorców z danych.
+llm-roznice,Opis różnic z użyciem LLM.
+multi-channel-klasyfikacja,Tag techniczny używany w analizie rozmów.
+dominujacy-temat,Tag techniczny używany w analizie rozmów.
+clustering,Tag techniczny używany w analizie rozmów.
+heatmap-generation,Generowanie heatmap wg emocji/etapów.
+emotion-tracking,Śledzenie emocji w czasie.
+temporal-emotion-analysis,Tag techniczny używany w analizie rozmów.
+frazy-binaryx2,Dwie niezależne klasyfikacje binarne w jednym zadaniu.
+llm-opis-segment,Użycie LLM do opisu/charakteryzacji segmentów.
+llm-opis-ocena,Użycie LLM do oceny jakości/argumentacji.
+pair-classification-client-agent,Klasyfikacja relacji/par wypowiedzi klient↔doradca.
+baza-wektorowa-produkty,Indeks wektorowy produktów.
+baza-wektorowa-oswiadczenia,Indeks wektorowy treści oświadczeń/procedur.
+scoring,Tag techniczny używany w analizie rozmów.
