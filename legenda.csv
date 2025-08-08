@@ -1,0 +1,112 @@
+Tag,Opis
+frazy-binary,Binarna klasyfikacja czy dana fraza/wzorzec występuje w rozmowie (TAK/NIE)
+frazy-ekstrakcja,Ekstrakcja konkretnych fraz lub wyrażeń z transkrypcji rozmowy
+frazy-clustering,Grupowanie podobnych fraz w klastry tematyczne
+frazy-binaryx2,Podwójna klasyfikacja binarna - dwa niezależne warunki do sprawdzenia
+frazy-klient-ekstrakcja,Ekstrakcja fraz wypowiedzianych przez klienta
+frazy-klient-sentyment,Analiza sentymentu wypowiedzi klienta
+frazy-emocje,Detekcja emocji w wypowiedziach
+llm-podsumowanie,Generowanie podsumowań przy użyciu modelu językowego (LLM)
+llm-ocena-pokrycia,Ocena przez LLM czy wszystkie wymagane elementy zostały pokryte
+llm-ocena-argumentów,Ocena jakości argumentów sprzedażowych przez LLM
+llm-ocena-argumentacji,Ocena jakości argumentacji przez LLM
+llm-opis-segment,Generowanie opisów segmentów klientów przez LLM
+llm-opis-ocena,Generowanie opisów i ocen przez LLM
+llm-podsumowanie-profilu,Generowanie podsumowania profilu kompetencyjnego doradcy
+llm-porównanie,Porównanie treści przy użyciu LLM
+llm-różnice,Identyfikacja różnic między przypadkami przez LLM
+llm-klasyfikacja-skala,Klasyfikacja odpowiedzi na skalę liczbową przez LLM
+baza-wektorowa,Wykorzystanie bazy wektorowej do wyszukiwania semantycznego
+baza-wektorowa-tematy,Baza wektorowa tematów rozmów
+baza-wektorowa-produktów,Baza wektorowa produktów bankowych
+baza-wektorowa-procedury,Baza wektorowa procedur i regulacji
+baza-wektorowa-bezpieczeństwo,Baza wektorowa zagadnień bezpieczeństwa
+baza-wektorowa-fraudy,Baza wektorowa znanych typów fraudów
+baza-wektorowa-promocji,Baza wektorowa aktualnych promocji
+baza-wektorowa-scripts,Baza wektorowa skryptów rozmów
+baza-wektorowa-skrypty,Baza wektorowa scenariuszy (np. tajemniczy klient)
+baza-wektorowa-skrypt,Baza wektorowa skryptów konsultacji
+baza-wektorowa-indykatory,Baza wektorowa wskaźników fraudowych
+baza-wektorowa-oświadczenia,Baza wektorowa wymaganych oświadczeń
+baza-wektorowa-produkty,Baza wektorowa nazw produktów
+retrieval,Wyszukiwanie informacji z bazy wiedzy
+retrieval+reranking,Wyszukiwanie z ponownym rankingowaniem wyników
+reranking,Ponowne rankingowanie wyników wyszukiwania
+multi-label-klasyfikacja,Klasyfikacja wieloetykietowa (wiele tagów jednocześnie)
+kategoryzacja-rozmów,Przypisywanie kategorii tematycznych do rozmów
+topic-modeling,Modelowanie tematów w zbiorze rozmów
+clustering,Grupowanie podobnych elementów
+scoring-jakości,Ocena punktowa jakości rozmowy
+scoring-oferty,Ocena punktowa jakości oferty
+scoring-doradcy,Ocena punktowa doradcy
+scoring-wejścia,Ocena skuteczności rozpoczęcia rozmowy
+pair-classification,Klasyfikacja relacji między wypowiedziami agenta i klienta
+opportunity-detection,Wykrywanie szans sprzedażowych
+service-to-sales,Przejście od obsługi do sprzedaży
+need-to-product-mapping,Mapowanie potrzeb klienta na produkty
+pattern-detection,Wykrywanie wzorców w danych
+pattern-mining,Eksploracja wzorców w danych
+novelty-detection,Wykrywanie nowych/nieznanych wzorców
+fraud-klasyfikacja,Klasyfikacja typów fraudów
+sentiment-segmentation,Segmentacja opinii według sentymentu
+sentyment-czasowy,Analiza zmian sentymentu w czasie
+segmentacja-rozmowy,Podział rozmowy na segmenty/etapy
+segmentacja-procesów,Kategoryzacja procesów obsługowych
+diarization-tekstowa,Rozdzielenie wypowiedzi klienta i doradcy
+timeline-analiza,Analiza przebiegu czasowego rozmowy
+temporal-emotion-analysis,Analiza emocji w czasie
+emotion-tracking,Śledzenie emocji podczas rozmowy
+heatmap-generation,Generowanie map cieplnych (np. emocji)
+emocje-mapa,Mapowanie emocji na etapy rozmowy
+talk-time-analysis,Analiza czasu mówienia doradcy vs klient
+call-duration,Analiza czasu trwania połączenia
+dialog,Analiza dialogowości rozmowy
+finalizacja-binary,Binarna detekcja czy doszło do finalizacji
+finalizacja-zdalna,Detekcja propozycji zdalnej finalizacji
+fcr-prediction,Predykcja First Call Resolution
+voice-of-customer,Analiza głosu klienta
+consistency-check,Sprawdzanie spójności (np. komentarz vs rozmowa)
+compliance,Zgodność z regulacjami i procedurami
+compliance-odnotowanie,Weryfikacja zapisów w systemie
+role-uprawnienia,Weryfikacja uprawnień ról (JAO/POG/PUS)
+obowiązki-informacyjne,Weryfikacja wypełnienia obowiązków informacyjnych
+misselling,Wykrywanie nieprawidłowej sprzedaży
+checklista,Weryfikacja elementów z listy kontrolnej
+checklista-merytoryczna,Weryfikacja merytorycznej poprawności
+filtracja po kryteriach,Filtrowanie rozmów według zadanych kryteriów
+join-z-CRM,Łączenie danych z systemem CRM
+system-rozmowa-alignment,Porównanie treści rozmowy z zapisami w systemie
+ekstrakcja-oferty,Wyciąganie parametrów oferty z rozmowy
+audyt,Proces audytu zgodności
+audyt-zmian,Śledzenie historii zmian
+sts,Semantic Textual Similarity - podobieństwo semantyczne
+thresholding,Ustalanie progów decyzyjnych
+human-in-the-loop,Proces z udziałem człowieka w pętli decyzyjnej
+candidate-review,Przegląd kandydatów (np. nowych wzorców)
+free-text-normalizacja,Normalizacja swobodnego tekstu
+suggestion-engine,Silnik sugestii/rekomendacji
+uplift-analiza,Analiza wzrostu/poprawy wskaźników
+contrastive-analysis,Analiza kontrastowa (porównawcza)
+ranking-cech,Rankingowanie cech według ważności
+dominujący-temat,Identyfikacja głównego tematu rozmowy
+multi-channel-klasyfikacja,Klasyfikacja dla wielu kanałów komunikacji
+agregacja-metryk,Łączenie wskaźników w zagregowane miary
+indeks-metadanych,Indeksowanie metadanych rozmów
+facety,Fasety do filtrowania wyników
+highlighty,Podświetlanie trafień w wynikach
+wyszukiwarka-semantyczna,Wyszukiwanie oparte na znaczeniu
+intuitive-search,Intuicyjne wyszukiwanie w języku naturalnym
+context-matching,Dopasowywanie kontekstowe
+nlg-raporty,Generowanie raportów w języku naturalnym (NLG)
+retrieval-structured+unstructured,Wyszukiwanie w danych strukturalnych i niestrukturalnych
+agent,Agent konwersacyjny/automatyczny
+tajemniczy-klient,Symulacja tajemniczego klienta
+personalizacja,Personalizacja komunikacji/oferty
+refinansowanie,Proces refinansowania zobowiązań
+kwota-minimalna,Analiza kwot minimalnych
+analiza-zdolności,Analiza zdolności kredytowej
+procesy-analiza,Analiza procesów biznesowych
+kontrola,Procesy kontroli jakości
+automatyzacja,Automatyzacja procesów
+analiza-wydajności,Analiza wydajności/efektywności
+vb,VoiceBot - automatyzacja głosowa

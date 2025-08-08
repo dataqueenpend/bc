@@ -1,0 +1,70 @@
+{
+  "statystyki": {
+    "liczba_projektow": 74,
+    "liczba_tagow": 138,
+    "srednia_tagow": 4.8108108108108105,
+    "dominujacy_zespol": "ZRKiWS",
+    "najczestszy_tag": "frazy-binary"
+  },
+  "top_10_tagow": [
+    [
+      "frazy-binary",
+      38
+    ],
+    [
+      "frazy-ekstrakcja",
+      28
+    ],
+    [
+      "frazy-clustering",
+      19
+    ],
+    [
+      "ofertowanie",
+      11
+    ],
+    [
+      "retrieval",
+      11
+    ],
+    [
+      "llm-podsumowanie",
+      9
+    ],
+    [
+      "service",
+      6
+    ],
+    [
+      "llm-ocena-pokrycia",
+      6
+    ],
+    [
+      "kredyt-got",
+      5
+    ],
+    [
+      "dashboard",
+      5
+    ]
+  ],
+  "typy_zadan": {
+    "NIEZNANY": 54,
+    "BIZNES": 11,
+    "KONTROLA": 8,
+    "PROCES": 1
+  },
+  "zespoly": {
+    "ZRKiWS": 25,
+    "ZDKwKZ": 24,
+    "": 2,
+    "ODZ": 19,
+    "SELECT": 3,
+    "Select": 1
+  },
+  "technologie": {
+    "Klasyczne ML": 67,
+    "LLM/GenAI": 24,
+    "Bazy wektorowe": 35
+  }
+}
