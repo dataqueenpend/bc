@@ -1,0 +1,60 @@
+[
+  {
+    "objection_type": "price_objections",
+    "conversation_snippet": "this call may be recorded for quality assurance. thank you for calling [organization] [organization]. [organization], my name is [person_name]. are you calling in today seeking coverage for new auto insurance policy? well, you called me, but it does sound interesting to see what kind of savings can ",
+    "objections_detected": {
+      "price_objections": 2
+    },
+    "techniques_used": {
+      "question_technique": 3,
+      "value_demonstration": 4
+    },
+    "effectiveness_score": 3.5
+  },
+  {
+    "objection_type": "time_objections",
+    "conversation_snippet": "you're still there, sir. right. this call may be recorded for quality assurance. hi, this is [person_name] with solid code. it looks like you were connected to me to compare rates on auto insurance today. is that correct? hello? [person_name]. what? you talking to me? i thought you were talking to s",
+    "objections_detected": {
+      "time_objections": 1
+    },
+    "techniques_used": {
+      "question_technique": 2
+    },
+    "effectiveness_score": 2.0
+  },
+  {
+    "objection_type": "trust_objections",
+    "conversation_snippet": "well, you guys are so short. super. calling [organization] [organization]. please enter your 5 digit zip code to confirm. the zip code you entered was [location]. one moment, i'll connect you to a [occupation] for assistance. yes sir. it is done now. the [occupation] will came update farm assurance ",
+    "objections_detected": {
+      "trust_objections": 2
+    },
+    "techniques_used": {
+      "question_technique": 3
+    },
+    "effectiveness_score": 1.5
+  },
+  {
+    "objection_type": "authority_objections",
+    "conversation_snippet": "this call may be recorded for quality assurance. hi, this is [person_name] with [organization]. it looks like you were connected to me to compare rates on your auto insurance today. is that correct? yes. i suppose i'm not completely sure of what this is about, but i certainly will listen to what you",
+    "objections_detected": {
+      "price_objections": 4,
+      "authority_objections": 1
+    },
+    "techniques_used": {
+      "question_technique": 1,
+      "value_demonstration": 1
+    },
+    "effectiveness_score": 0.4
+  },
+  {
+    "objection_type": "need_objections",
+    "conversation_snippet": "this call may be recorded for quality assurance. hi, this is [person_name] with [organization] [organization]. looks like you were connected to me to compare rates and auto insurance today, correct? correct. great. so in order to connect you to the right [occupation], i need to quickly verify some o",
+    "objections_detected": {
+      "need_objections": 1
+    },
+    "techniques_used": {
+      "value_demonstration": 2
+    },
+    "effectiveness_score": 2.0
+  }
+]

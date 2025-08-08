@@ -1,0 +1,89 @@
+{
+  "analysis_date": "2025-08-08T12:23:44.679704",
+  "dataset_stats": {
+    "total_calls": 1749,
+    "outbound_sales_calls": 1278,
+    "calls_with_objections": 1213
+  },
+  "objection_breakdown": [
+    {
+      "objection_type": "price_objections",
+      "count": 13951,
+      "percentage": 92.61767244240856
+    },
+    {
+      "objection_type": "time_objections",
+      "count": 488,
+      "percentage": 3.2397264821084777
+    },
+    {
+      "objection_type": "need_objections",
+      "count": 432,
+      "percentage": 2.8679545907189805
+    },
+    {
+      "objection_type": "trust_objections",
+      "count": 137,
+      "percentage": 0.9095133771493062
+    },
+    {
+      "objection_type": "authority_objections",
+      "count": 55,
+      "percentage": 0.365133107614685
+    }
+  ],
+  "technique_effectiveness": [
+    {
+      "technique_type": "value_demonstration",
+      "count": 669,
+      "percentage": 56.07711651299245,
+      "avg_effectiveness": 0.3396014737362616
+    },
+    {
+      "technique_type": "question_technique",
+      "count": 420,
+      "percentage": 35.20536462699078,
+      "avg_effectiveness": 0.3656529501100841
+    },
+    {
+      "technique_type": "social_proof",
+      "count": 62,
+      "percentage": 5.196982397317687,
+      "avg_effectiveness": 0.3688727424596442
+    },
+    {
+      "technique_type": "urgency_scarcity",
+      "count": 41,
+      "percentage": 3.4367141659681475,
+      "avg_effectiveness": 0.2600334766313005
+    },
+    {
+      "technique_type": "acknowledge_and_redirect",
+      "count": 1,
+      "percentage": 0.0838222967309304,
+      "avg_effectiveness": 0.3181818181818182
+    }
+  ],
+  "key_findings": {
+    "dominant_objection": "price_objections",
+    "most_effective_technique": "social_proof",
+    "improvement_opportunity": "increase_social_proof_usage",
+    "training_priority": "value_demonstration_enhancement"
+  },
+  "recommendations": {
+    "immediate": [
+      "Develop social proof library",
+      "Train question techniques",
+      "Create price objection playbook"
+    ],
+    "medium_term": [
+      "Implement CRM integration",
+      "Advanced training programs",
+      "Quality assurance enhancement"
+    ],
+    "long_term": [
+      "Predictive analytics",
+      "Customer experience optimization"
+    ]
+  }
+}
