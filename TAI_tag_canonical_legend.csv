@@ -1,0 +1,114 @@
+﻿canonical_tag,total_count,sources,variants
+1)-baza-scenariuszy;-2)-porównanie-rozmów;-3)-raport-różnic;-4)-tryb-symulacji-czat.,1,voice2text:1,1) Baza scenariuszy; 2) Porównanie rozmów; 3) Raport różnic; 4) Tryb symulacji czat.
+1)-binary:-czy-było-ofertowanie;-2)-ekstrakcja-i-klasteryzacja-argumentów;-3)-llm/klasyfikator-oceny-jakości-(skala),1,voice2text:1,1) Binary: czy było ofertowanie; 2) Ekstrakcja i klasteryzacja argumentów; 3) LLM/klasyfikator oceny jakości (skala)
+1)-binary:-czy-padła-propozycja-wyższej-kwoty;-2)-ekstrakcja-argumentów;-3)-ocena-jakości-argumentacji-vs-efekt/sprzedaż.,1,voice2text:1,1) Binary: czy padła propozycja wyższej kwoty; 2) Ekstrakcja argumentów; 3) Ocena jakości argumentacji vs efekt/sprzedaż.
+1)-detekcja-obiekcji-'brak-czasu';-2)-detekcja-reakcji-doradcy;-3)-scoring-skuteczności.,1,voice2text:1,1) Detekcja obiekcji 'brak czasu'; 2) Detekcja reakcji doradcy; 3) Scoring skuteczności.
+1)-detekcja-parafrazy/odniesień-do-wypowiedzi-klienta;-2)-detekcja-szans-(słowa-kluczowe-klienta);-3)-powiązanie-i-scoring-wykorzystania-szans.,1,voice2text:1,1) Detekcja parafrazy/odniesień do wypowiedzi klienta; 2) Detekcja szans (słowa kluczowe klienta); 3) Powiązanie i scoring wykorzystania szans.
+1)-detekcja-tematów-bezpieczeństwa;-2)-ekstrakcja-komunikatów;-3)-ocena-kompletności/jakości.,1,voice2text:1,1) Detekcja tematów bezpieczeństwa; 2) Ekstrakcja komunikatów; 3) Ocena kompletności/jakości.
+1)-detekcja/ekstrakcja-ofert;-2)-reakcja-klienta-(sentyment/zgoda);-3)-predykcja-intencji;-4)-podsumowanie.,1,voice2text:1,1) Detekcja/ekstrakcja ofert; 2) Reakcja klienta (sentyment/zgoda); 3) Predykcja intencji; 4) Podsumowanie.
+1)-dobór-par/zbiorów;-2)-ekstrakcja-cech;-3)-analiza-różnic;-4)-rekomendacje.,1,voice2text:1,1) Dobór par/zbiorów; 2) Ekstrakcja cech; 3) Analiza różnic; 4) Rekomendacje.
+1)-ekstrakcja-kontekstu-(dzieci);-2)-detekcja-ofert-dopasowanych;-3)-raport-skuteczności;-4)-(opcjonalnie)-powiązanie-ze-sprzedażą.,1,voice2text:1,1) Ekstrakcja kontekstu (dzieci); 2) Detekcja ofert dopasowanych; 3) Raport skuteczności; 4) (opcjonalnie) powiązanie ze sprzedażą.
+1)-ekstrakcja-parametrów-oferty-z-transkrypcji;-2)-pobranie-zapisów-z-systemu;-3)-porównanie;-4)-raport-niezgodności.,1,voice2text:1,1) Ekstrakcja parametrów oferty z transkrypcji; 2) Pobranie zapisów z systemu; 3) Porównanie; 4) Raport niezgodności.
+1)-ekstrakcja-potrzeb-klienta;-2)-retrieval-produktów-(wektor+reranking);-3)-detekcja-reakcji-doradcy-(czy-zaproponował);-4)-audyt-zapisu-w-systemie.,1,voice2text:1,1) Ekstrakcja potrzeb klienta; 2) Retrieval produktów (wektor+reranking); 3) Detekcja reakcji doradcy (czy zaproponował); 4) Audyt zapisu w systemie.
+1)-filtr-znanych-fraudów;-2)-clustering-reszty;-3)-detekcja-anomalii/nowych-tematów;-4)-przegląd-i-aktualizacja-słownika.,1,voice2text:1,1) Filtr znanych fraudów; 2) Clustering reszty; 3) Detekcja anomalii/nowych tematów; 4) Przegląd i aktualizacja słownika.
+1)-indeks-wektorowy-+-bm25;-2)-reranking;-3)-filtry-i-podświetlenia-trafień.,1,voice2text:1,1) Indeks wektorowy + BM25; 2) Reranking; 3) Filtry i podświetlenia trafień.
+1)-klasyfikacja-treści-do-skali;-2)-uzasadnienie/ślad-audytowy;-3)-propozycja-korekty.,1,voice2text:1,1) Klasyfikacja treści do skali; 2) Uzasadnienie/ślad audytowy; 3) Propozycja korekty.
+1)-klasyfikacja/wyciągnięcie-przyczyn;-2)-sentyment/ton;-3)-predykcja-fcr/ryzyka;-4)-streszczenie-i-rekomendacja-działań.,1,voice2text:1,1) Klasyfikacja/wyciągnięcie przyczyn; 2) Sentyment/ton; 3) Predykcja FCR/ryzyka; 4) Streszczenie i rekomendacja działań.
+1)-linkowanie-komentarz↔interakcja;-2)-sentyment/ocena;-3)-tematy/klastry;-4)-podsumowanie-powodów.,1,voice2text:1,1) Linkowanie komentarz↔interakcja; 2) Sentyment/ocena; 3) Tematy/klastry; 4) Podsumowanie powodów.
+1)-ner-produktów;-2)-ekstrakcja/klastry-fraz;-3)-połączenie-ze-sprzedażą;-4)-ranking-skuteczności.,1,voice2text:1,1) NER produktów; 2) Ekstrakcja/klastry fraz; 3) Połączenie ze sprzedażą; 4) Ranking skuteczności.
+1)-normalizacja-kanałów;-2)-klasyfikacja-tematów;-3)-dominujący-temat;-4)-sentyment/klastry.,1,voice2text:1,1) Normalizacja kanałów; 2) Klasyfikacja tematów; 3) Dominujący temat; 4) Sentyment/klastry.
+1)-preprocessing;-2)-tematy/klastry;-3)-emocje;-4)-podsumowania-i-wizualizacja.,1,voice2text:1,1) Preprocessing; 2) Tematy/klastry; 3) Emocje; 4) Podsumowania i wizualizacja.
+1)-segmentacja-etapów;-2)-klasyfikacja-emocji;-3)-detekcja-skoków-i-przyczyn;-4)-heatmapa.,1,voice2text:1,1) Segmentacja etapów; 2) Klasyfikacja emocji; 3) Detekcja skoków i przyczyn; 4) Heatmapa.
+1)-segmentacja-transkrypcji;-2)-klient-vs-doradca;-3)-sentyment/emocje-per-segment-i-trend.,1,voice2text:1,1) Segmentacja transkrypcji; 2) Klient vs doradca; 3) Sentyment/emocje per segment i trend.
+1)-słownik/wektorowa-baza-promocji;-2)-detekcja-i-ekstrakcja;-3)-agregacja-vs-sprzedaż.,1,voice2text:1,1) Słownik/wektorowa baza promocji; 2) Detekcja i ekstrakcja; 3) Agregacja vs sprzedaż.
+1)-taksonomia-fraudów;-2)-klasyfikacja-+-ekstrakcja-sygnałów;-3)-agregacja/alertowanie.,1,voice2text:1,1) Taksonomia fraudów; 2) Klasyfikacja + ekstrakcja sygnałów; 3) Agregacja/alertowanie.
+1)-zależności:-klasyfikacja-tematów,1,voice2text:1,1) Zależności: klasyfikacja tematów
+1)-zasilenie-danymi;-2)-szablony/nlg-+-retrieval;-3)-walidacja-źródeł-i-metryk.,1,voice2text:1,1) Zasilenie danymi; 2) Szablony/NLG + retrieval; 3) Walidacja źródeł i metryk.
+1)-zdefiniować-checklistę;-2)-detekcja/odniesienie-do-wzorca;-3)-ocena-pokrycia-i-raport.,1,voice2text:1,1) Zdefiniować checklistę; 2) Detekcja/odniesienie do wzorca; 3) Ocena pokrycia i raport.
+1)-zestaw-metryk/cech;-2)-agregacja-per-doradca;-3)-profil/score;-4)-raport/podsumowanie.,1,voice2text:1,1) Zestaw metryk/cech; 2) Agregacja per doradca; 3) Profil/score; 4) Raport/podsumowanie.
+analiza-sprzedażowa,2,bc_nexidia:1; combined:1,analiza-sprzedażowa
+analiza-wydajności,2,bc_nexidia:1; combined:1,analiza-wydajności
+analiza-zdolności,2,bc_nexidia:1; combined:1,analiza-zdolności
+analogicznie-do-przewalutowania:-checklista-→-detekcja-→-ocena-pokrycia.,1,voice2text:1,Analogicznie do przewalutowania: checklista → detekcja → ocena pokrycia.
+asysta-digital,2,bc_nexidia:1; combined:1,asysta-digital
+automatyzacja,2,bc_nexidia:1; combined:1,automatyzacja
+baza-wektorowa-oświadczenia,4,bc_nexidia:2; combined:2,"baza-wektorowa-oswiadczenia(procedury), baza-wektorowa-oświadczenia"
+baza-wektorowa-produkty,2,bc_nexidia:1; combined:1,baza-wektorowa-produkty
+bik,2,bc_nexidia:1; combined:1,bik
+binary-detekcja-fraz-asysty-digital-i-cta-do-przejścia-procesu;-raport-udziału.,1,voice2text:1,Binary detekcja fraz asysty digital i CTA do przejścia procesu; raport udziału.
+binary-detekcja-fraz-sugerujących-przełożenie-kontaktu;-raport-wystąpień.,1,voice2text:1,Binary detekcja fraz sugerujących przełożenie kontaktu; raport wystąpień.
+binary-detekcja-konsultacji-→-ekstrakcja-kontekstu-→-kategoryzacja/priorytety.,1,voice2text:1,Binary detekcja konsultacji → ekstrakcja kontekstu → kategoryzacja/priorytety.
+binary:-próba-na-argumenty-→-ekstrakcja-argumentów-→-ocena-jakości/sekwencji.,1,voice2text:1,Binary: próba na argumenty → ekstrakcja argumentów → ocena jakości/sekwencji.
+blokady,2,bc_nexidia:1; combined:1,blokady
+call-duration,2,bc_nexidia:1; combined:1,call-duration
+checklista-kampanii-→-detekcja-→-ocena-pokrycia-i-braki.,1,voice2text:1,Checklista kampanii → detekcja → ocena pokrycia i braki.
+checklista-ról/uprawnień-→-detekcja-→-raport-naruszeń/braków.,1,voice2text:1,Checklista ról/uprawnień → detekcja → raport naruszeń/braków.
+checklista-→-detekcja-→-ocena-pokrycia-+-wyszukiwarka-z-filtrami.,1,voice2text:1,Checklista → detekcja → ocena pokrycia + wyszukiwarka z filtrami.
+cross-sell,10,bc_nexidia:5; combined:5,cross-sell
+definicja-reguł-(okna-czasowe,1,voice2text:1,Definicja reguł (okna czasowe
+detekcja-fraz-kk→retencja,1,voice2text:1,detekcja fraz KK→retencja
+detekcja-fraz-promujących-samoobsługę;-udział-w-rozmowach-obsługowych.,1,voice2text:1,Detekcja fraz promujących samoobsługę; udział w rozmowach obsługowych.
+dialog,2,bc_nexidia:1; combined:1,dialog
+finalizacja,4,bc_nexidia:2; combined:2,finalizacja
+finalizacja;-2)-agregacja-per-doradca;-3)-dashboard/raport;-4)-walidacja-vs-kpi-sprzedażowe.,1,voice2text:1,finalizacja; 2) Agregacja per doradca; 3) Dashboard/raport; 4) Walidacja vs KPI sprzedażowe.
+frazy-binary,148,bc_nexidia:74; combined:74,frazy-binary
+frazy-binary-(2x),12,bc_nexidia:6; combined:6,frazy-binaryx2
+frazy-clustering,70,bc_nexidia:35; combined:35,frazy-clustering
+frazy-ekstrakcja,70,bc_nexidia:35; combined:35,frazy-ekstrakcja
+frazy-klient-sentyment,10,bc_nexidia:5; combined:5,frazy-klient-sentyment
+inwestycje,2,bc_nexidia:1; combined:1,inwestycje
+jdg,2,bc_nexidia:1; combined:1,jdg
+kampania,6,bc_nexidia:3; combined:3,kampania
+karta-kredytowa,30,bc_nexidia:15; combined:15,"karta kredytowa, karta-kredytowa"
+konsolidacja,8,bc_nexidia:4; combined:4,konsolidacja
+konto-osobiste,2,bc_nexidia:1; combined:1,konto-osobiste
+kontrola,2,bc_nexidia:1; combined:1,kontrola
+kredyt,2,bc_nexidia:1; combined:1,kredyt
+kredyt-gotówkowy,56,bc_nexidia:28; combined:28,kredyt-got
+kredyt-hip,2,bc_nexidia:1; combined:1,kredyt-hip
+kwota,2,bc_nexidia:1; combined:1,kwota
+kwota-minimalna,2,bc_nexidia:1; combined:1,kwota-minimalna
+kyc,6,bc_nexidia:3; combined:3,kyc
+limit-w-koncie,14,bc_nexidia:7; combined:7,limit
+llm-ocena-argumentów,4,bc_nexidia:2; combined:2,llm-opis-ocena
+llm-ocena-segmentu,2,bc_nexidia:1; combined:1,llm-opis-segment
+llm-podsumowanie,2,bc_nexidia:1; combined:1,llm-podsumowanie
+misselling,2,bc_nexidia:1; combined:1,misselling
+mobilna-autoryzacja,4,bc_nexidia:2; combined:2,mobilna-autoryzacja
+nps,20,bc_nexidia:10; combined:10,nps
+obiekcje,10,bc_nexidia:5; combined:5,obiekcje
+obowiazki-informacyjne,4,bc_nexidia:2; combined:2,obowiazki-informacyjne
+obowiązki-informacyjne,2,bc_nexidia:1; combined:1,obowiązki-informacyjne
+ofertowanie,68,bc_nexidia:34; combined:34,ofertowanie
+opinia-klienta,2,bc_nexidia:1; combined:1,opinia-klienta
+opinie,2,bc_nexidia:1; combined:1,opinie
+pair-classification-agent-client,2,bc_nexidia:1; combined:1,pair-classfication-client-agent
+personalizacja,2,bc_nexidia:1; combined:1,personalizacja
+poczta-głosowa,2,bc_nexidia:1; combined:1,poczta-głosowa
+powody-odmow,2,bc_nexidia:1; combined:1,powody-odmow
+procesy-analiza,2,bc_nexidia:1; combined:1,procesy-analiza
+promocje,4,bc_nexidia:2; combined:2,promocje
+przelewy,2,bc_nexidia:1; combined:1,przelewy
+rata,2,bc_nexidia:1; combined:1,rata
+refinansowanie,2,bc_nexidia:1; combined:1,refinansowanie
+retencja,2,bc_nexidia:1; combined:1,retencja
+rezygnacja,4,bc_nexidia:2; combined:2,rezygnacja
+scoring,2,bc_nexidia:1; combined:1,scoring
+screensharing,2,bc_nexidia:1; combined:1,screensharing
+segmentacja,2,bc_nexidia:1; combined:1,segmentacja
+segmentacja-procesów,2,bc_nexidia:1; combined:1,segmentacja-procesów
+sekwencje),1,voice2text:1,sekwencje)
+select,8,bc_nexidia:4; combined:4,select
+self-service,10,bc_nexidia:5; combined:5,self-service
+service,36,bc_nexidia:18; combined:18,service
+sprzedaż,2,bc_nexidia:1; combined:1,sprzedaż
+szanse,1,voice2text:1,szanse
+talk-time-analysis,2,bc_nexidia:1; combined:1,talk-time-analysis
+ubezpieczenia,14,bc_nexidia:7; combined:7,ubezpieczenia
+utrzymanie,2,bc_nexidia:1; combined:1,utrzymanie
+vb,2,bc_nexidia:1; combined:1,vb
+walidacja-na-próbkach.,1,voice2text:1,walidacja na próbkach.
+walidacja-vs-sprzedaż.,1,voice2text:1,walidacja vs sprzedaż.
+wieloetapowe:3-4,1,voice2text:1,wieloetapowe:3-4
+wymiana,2,bc_nexidia:1; combined:1,wymiana
+zalety,2,bc_nexidia:1; combined:1,zalety
